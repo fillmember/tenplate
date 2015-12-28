@@ -35,9 +35,9 @@ Webpack inject a boolean variable `__DEV__` into files. The value will be `true`
 ### Gulp:
 
 `gulp` for help, and start watch.
-`gulp watch` for watch in dist/  
-`gulp build` for build to dist/  
-`gulp clean` for clean dist/, now it only delete documents
+`gulp watch` for watch in `dist/`  
+`gulp build` for build to `dist/`  
+`gulp clean` for clean `dist/`, now it only delete documents
 
 ## To Expand
 
@@ -47,4 +47,4 @@ To configure webpack, check webpack.config.js for basic configurations such as e
 
 ## Footer
 
-Feel free to open issues, and/or make pull requests. I want to make this more solid. Especially improvements on the browserSync-webpack-watch part. 
+Feel free to open issues, and/or make pull requests. I want to make this more solid. There definitely can be more improvements on the browserSync-webpack-watch part. 
