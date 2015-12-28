@@ -22,11 +22,11 @@ one liner -- Takes things in src and put them into dist.
 
 ### Folders:
 
-- assets : for images and other static content. Will be copied to dist/ (you can extend this process in gulp/build.coffee)
-- jade   : each .jade file will become a html file in dist/
-- stylus : each .styl file will become a css file in dist/css/
-- css    : each .css file in here will be copied to dist/css/ for @import use
-- js     : webpack is in charge here. entry point is main.js
+- assets : for images and other static content. Will be copied to `dist/` (you can extend this process in `gulp/build.coffee`)
+- jade   : each `.jade` file will become a html file in `dist/`
+- stylus : each `.styl` file will become a css file in `dist/css/`
+- css    : each `.css` file in here will be copied to `dist/css/` for `@import` use
+- js     : webpack is in charge here. entry point is `main.js`
 
 ### Code:
 
