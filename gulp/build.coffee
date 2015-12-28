@@ -45,7 +45,7 @@ gulp.task 'build-assets', (cb) ->
 
 gulp.task 'build-jade', ->
     gulp.src ['./src/jade/*.jade']
-        .pipe jade(pretty:true)
+        .pipe jade pretty: true
         .pipe gulp.dest('./dist/')
         .pipe browserSync.stream()
 
