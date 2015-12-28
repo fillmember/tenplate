@@ -1,7 +1,7 @@
 {
   "name": "Tenplate",
   "version": "1.0.0",
-  "description": "yee",
+  "description": "Ten's homemade template",
   "author": "fillmember <hi@fillmember.net>",
   "main": "gulpfile.coffee",
   "scripts": {
