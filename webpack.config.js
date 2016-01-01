@@ -5,10 +5,12 @@ var argv = require("yargs").argv
 var config = {
 
   // This is the main file that should include all other JS files
-  entry: [ "./src/js/main.js" ],
+  entry: {
+    Main: "./src/js/main.coffee",
+  },
   output: {
     path: path.join(__dirname, "dist", "js"),
-    filename: "main.js",
+    filename: "[name].js",
     chunkFilename: "[chunkhash].js"
   },
   resolve: { extensions: ['', '.js', '.json', '.coffee', '.jade'] },
@@ -26,7 +28,7 @@ var config = {
       { test: /\.png/, loader: "url-loader?limit=10000&minetype=image/png" },
       
       // CODE
-      { test: /\.js$/, exclude: /node_modules/, loader: "babel-loader", query: {presets: ['es2015']}},
+      { test: /\.js$/, exclude: /(node_modules|vendor)/, loader: "babel-loader", query: {presets: ['es2015']}},
       { test: /\.coffee$/, loader: "coffee-loader" },
       { test: /\.glsl$/, loader: "shader-loader"}
 
