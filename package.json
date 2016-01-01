@@ -9,10 +9,7 @@
     "build": "gulp build"
   },
   "keywords": ["boilerplate","webpack","gulp","stylus","coffeescript","babel","es2015","jade"],
-  "dependencies": {
-    "jquery": "^2.1.4",
-    "three": "^0.73.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel-core": "^6.3.26",
     "babel-loader": "^6.2.0",
