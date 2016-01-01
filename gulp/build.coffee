@@ -5,22 +5,22 @@ jade   = require 'gulp-jade'
 stylus = require "gulp-stylus"
 
 webpack     = require "webpack"
-browserSync = require "browser-sync"
+browserSync = require("browser-sync").get("A")
 
 
 gulp.task 'build', (cb) ->
     run(
-        'clean',
-        'build-files',
-        'webpack:build',
+        'clean'
+        'build-files'
+        'webpack:build'
         cb)
 
 gulp.task 'build-files', (cb) ->
     run(
         [
-            'build-css',
-            'build-stylus',
-            'build-jade',
+            'build-css'
+            'build-stylus'
+            'build-jade'
             'build-assets'
         ],
         cb
@@ -44,7 +44,7 @@ gulp.task 'build-assets', (cb) ->
         .pipe browserSync.stream()
 
 gulp.task 'build-jade', ->
-    gulp.src ['./src/jade/*.jade']
+    gulp.src ['./src/jade/**/*.jade']
         .pipe jade pretty: true
         .pipe gulp.dest('./dist/')
         .pipe browserSync.stream()

@@ -1,9 +1,9 @@
 gulp = require "gulp"
-browserSync = require "browser-sync"
+browserSync = require("browser-sync").create("A")
 
 
 gulp.task 'browserSync', (cb) ->
-    browserSync = browserSync.init {
+    browserSync.init {
         server: "./dist",
         port: 3000
     }

@@ -5,19 +5,19 @@ jade   = require 'gulp-jade'
 stylus = require "gulp-stylus"
 
 webpack     = require "webpack"
-browserSync = require "browser-sync"
+browserSync = require("browser-sync").get("A")
 
 
 gulp.task 'watch', ->
     run(
-        'clean',
-        'build-files',
-        'browserSync',
+        'clean'
+        'build-files'
+        'browserSync'
         'webpack:watch'
     )
-    gulp.watch './src/stylus/*.styl', ['build-stylus']
-    gulp.watch './src/css/*.css'    , ['build-css']
-    gulp.watch './src/jade/*.jade'  , ['build-jade']
+    gulp.watch './src/stylus/**/*.styl', ['build-stylus']
+    gulp.watch './src/css/**/*.css'    , ['build-css']
+    gulp.watch './src/jade/**/*.jade'  , ['build-jade']
     gulp.watch './src/assets/**/*'  , ['build-assets']
 
 gulp.task 'webpack:watch', (cb) ->
