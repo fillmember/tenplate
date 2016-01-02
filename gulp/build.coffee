@@ -50,7 +50,7 @@ gulp.task 'build-jade', ->
         .pipe browserSync.stream()
 
 gulp.task 'webpack:build', (cb) ->
-    webpackConfig = require("./../webpack.config.js")
+    webpackConfig = require("./../webpack.config.coffee")
     # Transform config for Build task
     webpackConfig.plugins.push new webpack.optimize.UglifyJsPlugin sourceMap:false, compress: {warnings: false}
     # webpack

@@ -21,7 +21,7 @@ gulp.task 'watch', ->
     gulp.watch './src/assets/**/*'  , ['build-assets']
 
 gulp.task 'webpack:watch', (cb) ->
-    webpackConfig = require("./../webpack.config.js")
+    webpackConfig = require("./../webpack.config.coffee")
     # Transform config for Watch task
     webpackConfig.debug = true
     webpackConfig.devtool = "source-map"
