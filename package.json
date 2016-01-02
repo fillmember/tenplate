@@ -23,7 +23,6 @@
     "gulp-util": "~2.2.20",
     "jade-loader": "^0.6.1",
     "run-sequence": "^1.1.5",
-    "shader-loader": "^1.1.4",
     "webpack": "^1.12.9",
     "yargs": "^3.31.0"
   }
