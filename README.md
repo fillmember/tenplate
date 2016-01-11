@@ -11,7 +11,7 @@ Tools Used:
 
 And these are ready to use!
 
-- Stylus
+- Stylus (with nib)
 - Jade
 - Coffeescript
 - Babel ES2015
