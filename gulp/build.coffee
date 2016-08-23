@@ -27,7 +27,7 @@ gulp.task 'build-files', (cb) ->
             'build-css'
             'build-stylus'
             'build-jade'
-            'build-assets'
+            'build-image'
         ],
         cb
     )
