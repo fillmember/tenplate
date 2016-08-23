@@ -45,8 +45,8 @@ gulp.task 'build-css', ->
 
 gulp.task 'build-image', (cb) ->
     gulp
-        .src ['src/images/**/*']
-        .pipe gulp.dest('dist/images')
+        .src ['src/image/**/*']
+        .pipe gulp.dest('dist/image')
         .pipe browserSync.stream()
 
 gulp.task 'build-jade', ->
