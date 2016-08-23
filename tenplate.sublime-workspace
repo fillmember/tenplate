@@ -1,0 +1,2204 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"EditorGUI",
+				"EditorGUILayout"
+			],
+			[
+				"disp",
+				"displacement"
+			],
+			[
+				"mainTex",
+				"mainTex_TexelSize"
+			],
+			[
+				"_Camera",
+				"_CameraDepthNormalsTexture"
+			],
+			[
+				"colum",
+				"columnwidth"
+			],
+			[
+				"createCon",
+				"createContentByUrl"
+			],
+			[
+				"getTags",
+				"getTagsByLoggedInUser"
+			],
+			[
+				"geton",
+				"getContentByLoggedInUser"
+			],
+			[
+				"symbol",
+				"symbolSize"
+			],
+			[
+				"sym",
+				"symbolSize"
+			],
+			[
+				"vbrow",
+				"vbrowser-drag-goal-symbol-front"
+			],
+			[
+				"leveM",
+				"levelMin"
+			],
+			[
+				"nextLevel",
+				"nextLevelBonus"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"enabled",
+				"enabledItems"
+			],
+			[
+				"ena",
+				"enabledItems"
+			],
+			[
+				"trian",
+				"triangleSize"
+			],
+			[
+				"offset",
+				"offsetBoundSize"
+			],
+			[
+				"angle",
+				"angleBetween"
+			],
+			[
+				"angl",
+				"angleBetween"
+			],
+			[
+				"pointer",
+				"pointerPosition"
+			],
+			[
+				"vbr",
+				"vbrowser-drag-goal-text"
+			],
+			[
+				"MarkingMen",
+				"MarkingMenuItem"
+			],
+			[
+				"rai",
+				"radianPerStep"
+			],
+			[
+				"position",
+				"positionGoalAreas"
+			],
+			[
+				"labelAl",
+				"labelAlphaScale"
+			],
+			[
+				"color",
+				"color_background"
+			],
+			[
+				"filterBarHe",
+				"filterBarUnfoldHeight"
+			],
+			[
+				"flow",
+				"flowData"
+			],
+			[
+				"filter",
+				"filterBarUnfoldHeight"
+			],
+			[
+				"offs",
+				"offsetLeft"
+			],
+			[
+				"calcu",
+				"calculateNowPos"
+			],
+			[
+				"vbrowser",
+				"vbrowser-filter-item"
+			],
+			[
+				"_on",
+				"_onMoreButtonClick"
+			],
+			[
+				"block",
+				"block-padding"
+			],
+			[
+				"vbro",
+				"vbrowser-filter"
+			],
+			[
+				"vb",
+				"vbrowser-filter"
+			],
+			[
+				"c",
+				"color-dark-gray"
+			],
+			[
+				"remove",
+				"removeButton"
+			],
+			[
+				"vr",
+				"vbrowser-filter-item"
+			],
+			[
+				"eae",
+				"easeOut"
+			],
+			[
+				"reci",
+				"reciprocal_cornerCount"
+			],
+			[
+				"transform",
+				"transform-origin"
+			],
+			[
+				"make",
+				"_makeGoalArea"
+			],
+			[
+				"quan",
+				"quantizeRadius"
+			],
+			[
+				"half",
+				"halfWidth"
+			],
+			[
+				"stroke",
+				"strokeInterpolation"
+			],
+			[
+				"label",
+				"labelTextSize"
+			],
+			[
+				"ga",
+				"graphController"
+			],
+			[
+				"_curren",
+				"_currentCenterNodeElement"
+			],
+			[
+				"_previous",
+				"_previousCenterNodeElement"
+			],
+			[
+				"throttle",
+				"throttlePosition"
+			],
+			[
+				"order",
+				"_orderedNodes"
+			],
+			[
+				"neigh",
+				"neighborMap"
+			],
+			[
+				"cent",
+				"centralFactor"
+			],
+			[
+				"max",
+				"maxTouchScale"
+			],
+			[
+				"scale",
+				"scaleLayerMultiplier"
+			],
+			[
+				"sourc",
+				"sourceEvent"
+			],
+			[
+				"grph",
+				"graphController"
+			],
+			[
+				"ce",
+				"centralFactor"
+			],
+			[
+				"node-s",
+				"node-stroke-width"
+			],
+			[
+				"node-str",
+				"node-stroke-color"
+			],
+			[
+				"colo",
+				"color-graygreen"
+			],
+			[
+				"ad",
+				"adjacencyMatrix"
+			],
+			[
+				"set",
+				"setScaleLimitByNodeCount"
+			],
+			[
+				"clear",
+				"clearCenterNode"
+			],
+			[
+				"_nodeDrag",
+				"_nodeDrag_inFilterDropZone"
+			],
+			[
+				"vbrowser-fil",
+				"vbrowser-filter-dropped"
+			],
+			[
+				"graph",
+				"graphController"
+			],
+			[
+				"limit",
+				"limit_links"
+			],
+			[
+				"SELE",
+				"SELECT_OVERWRITE"
+			],
+			[
+				"stepRadi",
+				"stepRadiusFactor"
+			],
+			[
+				"grpahController",
+				"graphController"
+			],
+			[
+				"gra",
+				"graphController"
+			],
+			[
+				"star",
+				"started"
+			],
+			[
+				"_onZoom",
+				"_onZoomBehaviorStart"
+			],
+			[
+				"VIEW_",
+				"VIEW_CLOSE"
+			],
+			[
+				"closest",
+				"closestKeyIndex"
+			],
+			[
+				"stroke-",
+				"stroke-dashoffset"
+			],
+			[
+				"ringLine_das",
+				"ringLine_dashoffset_end"
+			],
+			[
+				"_animation",
+				"_animation_show_ringLine"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"Swipe",
+				"SwipeButtonSkin"
+			],
+			[
+				"hideAll",
+				"hideAllUSPFeatureUI"
+			],
+			[
+				"PLAYER_TWEEN",
+				"PLAYER_TWEEN_POSTER"
+			],
+			[
+				"confi",
+				"configLoaded"
+			],
+			[
+				"SWIPE",
+				"SWIPE_BTN_1"
+			],
+			[
+				"unbind",
+				"unbindInvalidFrameProgressEvent"
+			],
+			[
+				"PLAYER",
+				"PLAYER_TWEEN"
+			],
+			[
+				"XB",
+				"X_BUTTON"
+			],
+			[
+				"over",
+				"overlay"
+			],
+			[
+				"current",
+				"currentFeaturePoint"
+			],
+			[
+				"feature",
+				"featurePoints"
+			],
+			[
+				"interact",
+				"interactionEnabled"
+			],
+			[
+				"multiplierToFit",
+				"multiplierToFitHeight"
+			],
+			[
+				"slick",
+				"slickContainer"
+			],
+			[
+				"Sequen",
+				"SequenceRenderer"
+			],
+			[
+				"goto",
+				"gotoFallback"
+			],
+			[
+				"FALLB",
+				"FALLBACK_PAGE_PATH"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"handle",
+				"handle-shadow-size"
+			],
+			[
+				"defocus",
+				"defocus-transition"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"repe",
+				"repeat-y"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"color-",
+				"color-black"
+			],
+			[
+				"handl",
+				"handleSize"
+			],
+			[
+				"ovl",
+				"overlayUI"
+			],
+			[
+				"film",
+				"filmContainer"
+			],
+			[
+				"SwipeTo",
+				"SwipeToReturn"
+			],
+			[
+				"pulse",
+				"pulse-red-color"
+			],
+			[
+				"pulse-re",
+				"pulse-red-background-color"
+			],
+			[
+				"backgorund",
+				"background-color"
+			],
+			[
+				"captureWhile",
+				"captureWhileDrawing"
+			],
+			[
+				"download",
+				"downloadImage"
+			],
+			[
+				"switchT",
+				"switchToCanvasTexture"
+			],
+			[
+				"WEBSOC",
+				"WEBSOCKET_OPEN"
+			],
+			[
+				"MODE_",
+				"MODE_EXPORTSTEPS"
+			],
+			[
+				"bord",
+				"border-box"
+			],
+			[
+				"sliderThum",
+				"sliderThumbWidth"
+			],
+			[
+				"default",
+				"defaultHeight"
+			],
+			[
+				"WebG",
+				"THREE.WebGLRenderer"
+			],
+			[
+				"Or",
+				"THREE.OrthographicCamera"
+			],
+			[
+				"browserSync",
+				"browserSyncPlugin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gulp/build.coffee",
+			"settings":
+			{
+				"buffer_size": 1720,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webpack.config.coffee",
+			"settings":
+			{
+				"buffer_size": 1129,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 97.0,
+		"last_filter": "sidebar",
+		"selected_items":
+		[
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"addFo",
+				"Project: Add Folder"
+			],
+			[
+				"to tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"to spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"add folder",
+				"Project: Add Folder"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"C#",
+				"Set Syntax: C#"
+			],
+			[
+				"shader",
+				"Set Syntax: Unity ShaderLab"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"align ",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"to space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"hex",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"war",
+				"Word Wrap: Toggle"
+			],
+			[
+				"convert to tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"to",
+				"View: Toggle Tabs"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"wordw",
+				"Word Wrap: Toggle"
+			],
+			[
+				"minima",
+				"View: Toggle Minimap"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"JSON",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"to tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"to ta",
+				"View: Toggle Tabs"
+			],
+			[
+				"unfol",
+				"Code Folding: Unfold All"
+			],
+			[
+				"json",
+				"JsonTree: Show Tree"
+			],
+			[
+				"identation",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sideabr",
+				"View: Toggle Side Bar"
+			],
+			[
+				"glsl",
+				"Set Syntax: OpenGL SL"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"apach",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"word ",
+				"Word Wrap: Toggle"
+			],
+			[
+				"tree",
+				"JsonTree: Show Tree"
+			],
+			[
+				"apache",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"togl tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"word wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"json tree",
+				"JsonTree: Show Tree"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"wordwrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"coffeescript",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"indentation",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"Javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"stylus",
+				"Set Syntax: Stylus"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"GLSL",
+				"Set Syntax: GLSL"
+			],
+			[
+				"styuls",
+				"Set Syntax: Stylus"
+			],
+			[
+				"stylu",
+				"Set Syntax: Stylus"
+			],
+			[
+				"remove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"wrap ",
+				"Word Wrap: Toggle"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"listpack",
+				"Package Control: List Packages"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"Python",
+				"Set Syntax: Python"
+			],
+			[
+				"evernote: ",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote: List",
+				"Evernote: List recent notes"
+			],
+			[
+				"evernote open",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"evernote user",
+				"Evernote Settings: User"
+			],
+			[
+				"evernote",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"htmlpretty",
+				"HTMLPrettify"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"markdownEditing settings",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"javsac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"stat",
+				"View: Toggle Status Bar"
+			],
+			[
+				"sidb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"statu",
+				"View: Toggle Status Bar"
+			],
+			[
+				"remove ta",
+				"Emmet: Remove Tag"
+			],
+			[
+				"statusb",
+				"View: Toggle Status Bar"
+			],
+			[
+				"build",
+				"Build With: SASS - Compressed"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"reident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"mrakdown",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"preference",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"minify",
+				"Minify::Default File Settings"
+			],
+			[
+				"beauti",
+				"Beautify::Beautify File"
+			],
+			[
+				"remo",
+				"Emmet: Remove Tag"
+			],
+			[
+				"tumbl",
+				"Set Syntax: Tumblr"
+			],
+			[
+				"tumblr",
+				"Set Syntax: Tumblr"
+			],
+			[
+				"pre",
+				"Preferences: MarkdownEditing Settings – User"
+			]
+		],
+		"width": 493.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/fillmember/Dropbox/Works/2015/tenplate"
+	],
+	"file_history":
+	[
+		"/Users/fillmember/Dropbox/On-going Projects/RDDShader/Assets/FillMember/ReactiveDiffusionDisplacement.cs",
+		"/Users/fillmember/Dropbox/On-going Projects/KinoDatamosh/Assets/Kino/Datamosh/Editor/DatamoshEditor.cs",
+		"/Users/fillmember/Dropbox/On-going Projects/KinoDatamosh/Assets/Kino/Datamosh/Datamosh.cs",
+		"/Users/fillmember/Dropbox/On-going Projects/RDDShader/Assets/FillMember/Editor/ReactiveDiffusionDisplacementEditor.cs",
+		"/Users/fillmember/Dropbox/On-going Projects/KinoDatamosh/Assets/Kino/Datamosh/Shader/Datamosh.shader",
+		"/Users/fillmember/Downloads/Assets/ReactionDiffusion.shader",
+		"/Users/fillmember/Downloads/Assets/Dummy.cs",
+		"/Users/fillmember/Dropbox/On-going Projects/rdplay/src/shader/gs.fs.glsl",
+		"/Users/fillmember/Dropbox/On-going Projects/rdplay/src/js/ReactiveDiffusionSimulator.coffee",
+		"/Users/fillmember/Downloads/Assets/Main.unity",
+		"/Users/fillmember/Downloads/Assets/ReactionDiffusion-ColorMap.shader",
+		"/Users/fillmember/Dropbox/On-going Projects/ARP03/README.md",
+		"/Users/fillmember/Dropbox/On-going Projects/ARP03/Assets/Editor/FullscreenPlayMode.cs",
+		"/Users/fillmember/Dropbox/德國/保險們/Renterversicherung.md",
+		"/Users/fillmember/Dropbox/On-going Projects/KinoDatamosh/Assets/Kino/Datamosh/Datamosh.cs.meta",
+		"/Users/fillmember/Downloads/WiiMultipointGrid/WiiMultipointGrid.cs",
+		"/Users/fillmember/Downloads/WiiMultipointGrid/Warper.cs",
+		"/Users/fillmember/Downloads/WiiMultipointGrid/AffineTransformSolver.cs",
+		"/Users/fillmember/AR/arwebsite/site/blueprints/fields/projectcategory.yml",
+		"/Users/fillmember/AR/arwebsite/site/blueprints/fields/columntypes.yml",
+		"/Users/fillmember/AR/arwebsite/site/blueprints/fields/columnwidth.yml",
+		"/Users/fillmember/AR/arwebsite/site/blueprints/fields/column.yml",
+		"/Users/fillmember/AR/arwebsite/site/blueprints/arproject.yaml",
+		"/Users/fillmember/Dropbox/artificialrome.com/_css/ar_mobile.css",
+		"/Users/fillmember/Dropbox/artificialrome.com/_css/ar_02.css",
+		"/Users/fillmember/Dropbox/artificialrome.com/_css/ar_01.css",
+		"/Users/fillmember/Dropbox/artificialrome.com/_js/ar_spqr.js",
+		"/Users/fillmember/.htaccess",
+		"/Users/fillmember/Desktop/test.txt",
+		"/Users/fillmember/Dropbox/artificialrome.com/index.html",
+		"/Users/fillmember/Dropbox/artificialrome.com/package.json",
+		"/Users/fillmember/AR/Glopinion-App/www/js/content/controllers/EditContentCtrl.js",
+		"/Users/fillmember/AR/Glopinion-App/www/js/content/controllers/AddContentByUrlCtrl.js",
+		"/Users/fillmember/AR/Glopinion-App/www/js/content/services/contentService.js",
+		"/Users/fillmember/Desktop/soulsilver.md",
+		"/Users/fillmember/AR/gdatatool/src/js/PetrLayout.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/math/Graph.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/helpers/DataProcessor.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/GraphController.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/math/Node.coffee",
+		"/Users/fillmember/AR/gdatatool/webpack.config.integrate.coffee",
+		"/Users/fillmember/AR/gdatatool/gulp/build.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/VBrowserInit.coffee",
+		"/Users/fillmember/AR/gdatatool/src/stylus/visualBrowser.styl",
+		"/Users/fillmember/AR/gdatatool/src/stylus/components/function-blend.styl",
+		"/Users/fillmember/AR/gdatatool/src/js/DragController.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/MarkingMenu.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/DragController_Prototype2.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/MarkingMenuItem.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/DataStructure/Set.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/FilterController.coffee",
+		"/Users/fillmember/Downloads/chorales.lisp",
+		"/Users/fillmember/Downloads/chorales.doc",
+		"/Users/fillmember/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/fillmember/AR/gdatatool/src/js/main.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/Bound.coffee",
+		"/Users/fillmember/AR/gdatatool/src/stylus/body.styl",
+		"/Users/fillmember/AR/gdatatool/src/js/GestureController.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/vendor/debounce.js",
+		"/Users/fillmember/AR/gdatatool/src/stylus/components/filter.styl",
+		"/Users/fillmember/AR/gdatatool/src/jade/index.jade",
+		"/Users/fillmember/AR/gdatatool/gulp/watch.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/angular_wrapper.coffee",
+		"/Users/fillmember/AR/gdatatool/webpack.config.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/Filter.coffee",
+		"/Users/fillmember/AR/gdatatool/src/stylus/filter.styl",
+		"/Users/fillmember/AR/gdatatool/src/js/math/Link.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/Layout.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/FilterController_Prototype1.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/vendor/d3.js",
+		"/Users/fillmember/AR/gdatatool/src/js/math/SquareMatrix.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/ForceLayout.coffee",
+		"/Users/fillmember/AR/gdatatool/.gitignore",
+		"/Users/fillmember/AR/gdatatool/src/js/GraphForceLayoutController.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/GraphLayoutController.coffee",
+		"/Users/fillmember/AR/gdatatool/src/js/angular_template.js",
+		"/Users/fillmember/AR/gdatatool/README.md",
+		"/Users/fillmember/AR/gdatatool/src/js/App.coffee",
+		"/Users/fillmember/AR/gdatatool/src/stylus/main.styl",
+		"/Users/fillmember/AR/gdatatool/src/js/data/miserables.json",
+		"/Users/fillmember/AR/gdatatool/package.json",
+		"/Users/fillmember/AR/archive/iwc-prototype/c4d/curve_export.py",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets/js/src/coffee/DemoViewManager.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets/js/src/coffee/SubSectionController.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/js/src/coffee/MovieController.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/js/src/coffee/services/ResizeDispatcher.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/rsync.note.md",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/gulp/assets.js",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets/js/src/coffee/DemoView.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets/js/src/coffee/data/DemoViewData.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/css/src/style.scss",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/js/src/coffee/services/ChapterManager.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets/js/src/coffee/UI/UISwipeButton.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets/js/src/coffee/UI/SwipeButtonSkin.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/js/src/coffee/modules/chapter.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/site/templates/engine.php",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/css/src/components/_components.scroll-call.scss",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/css/src/settings/_settings.colors.scss",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/css/src/components/_components.film-container.scss",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/css/src/components/_components.demoview.scss",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/js/src/vendor/debounce.js",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets/js/src/coffee/utils/Utils.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/js/src/coffee/modules/all-facts-text-layer.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/js/src/coffee/modules/chapter-scroll-call.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/js/src/coffee/modules/all-facts.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets/js/src/coffee/utils/MathUtils.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets/js/src/coffee/UI/UILayerGroup.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets.src/videos/digitalkey.json",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets.src/videos/drivepilot.json",
+		"/Users/fillmember/AR/arc-w213-frontend/content/dam/artificialrome/master/movie-assets/sequences/digitalkey/config.json",
+		"/Users/fillmember/AR/arc-w213-frontend/content/dam/artificialrome/master/movie-assets/sequences/drivepilot/config.json",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets.src/videos/enparken.json",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets/js/src/coffee/UI/UISwipeTeacher2.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets/js/src/coffee/data/USPData.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/site/templates/all-facts.php",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/css/src/trumps/_trumps.helpers.scss",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets/js/src/coffee/SequenceRenderer/ImageSequence.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets/js/src/coffee/utils/PathUtils.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets/js/src/coffee/Config.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/js/src/vendor/t3.js",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/js/src/vendor/t3.min.js",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/js/src/coffee/main.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/js/src/coffee/services/Tracking.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/assets/js/src/coffee/vendor.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets/js/src/coffee/SequenceRenderer/InteractivePlayer.coffee",
+		"/Users/fillmember/AR/arc-w213-frontend/prototype/assets/js/src/coffee/SequenceRenderer/FeaturePoint.coffee",
+		"/var/folders/lh/43sy60fd20dd7z9s4fqpfqw00000gn/T/tmp9vpyci.hex",
+		"/Users/fillmember/Library/Application Support/Steam/steamapps/common/Undertale/UNDERTALE.app/Contents/Resources/game.ios"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"*.*",
+			"*.js",
+			"*.coffee",
+			"*.scss",
+			"*.coffee",
+			"*.scss",
+			"*.coffee",
+			"*.scss",
+			"*.coffee",
+			"*.scss",
+			"*.coffee",
+			"*.scss",
+			"*.coffee",
+			"*.js",
+			"*.scss",
+			"*.*ss",
+			"*.s*ss",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.coffee",
+			"*.scss",
+			"*.coffee",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.coffee",
+			"*.scss",
+			"*.coffee",
+			"*.js",
+			"*.scss",
+			"*.styl",
+			"*.*",
+			"*.coffee",
+			"*.scss",
+			"*.coffee",
+			"*.*",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.coffee",
+			"*.scss",
+			"*.*",
+			"*.coffee",
+			"*.*",
+			"*.scss",
+			".scss",
+			"",
+			"*.styl",
+			"*",
+			"*.scss",
+			"*.styl",
+			"*.scss",
+			".scss",
+			"",
+			"*.styl",
+			"*.scss",
+			"*.styl",
+			"*.coffee",
+			"*.styl",
+			"*.coffee",
+			"*.js",
+			"*.coffee",
+			"*.js",
+			"*.coffee",
+			"*.*",
+			"*.css",
+			"*.coffee",
+			"*.*",
+			"*.htm",
+			"*.js",
+			"*.html",
+			"*.*",
+			"*.txt",
+			"*.html",
+			"*.txt",
+			"*.html"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"feedRate",
+			"displacePositionOnly",
+			"distortOnly",
+			"accumulated",
+			"int",
+			"(",
+			"_",
+			";",
+			"Property ",
+			". \"",
+			"[Range",
+			"Datamosh",
+			" (",
+			"uniform ",
+			"tex2D",
+			"rdmap",
+			"source",
+			"originalTex",
+			"original",
+			"disp",
+			"_MainTex",
+			"original",
+			"workBuffer",
+			"rdTex",
+			"_dispBuffer",
+			"SetTexture",
+			"originalTex",
+			"workBuffer, workBuffer",
+			"rdTex",
+			"Blit",
+			"_MainTex",
+			"uniform ",
+			"delayMap",
+			"Quality",
+			"_Fade",
+			"_Quality",
+			"frac",
+			"3305",
+			"frac(",
+			"0 ",
+			"0",
+			"workBufferA",
+			"0 ",
+			"abs(mv.r) + abs(mv.g)",
+			"= ",
+			"mainTex",
+			"Blit",
+			"Multiplier",
+			"RateMultiplier",
+			"texelCoord",
+			"sequence",
+			"Range(0,0.1f)",
+			"Factor",
+			"vert_img",
+			"Column ",
+			": column",
+			"column",
+			"textarea",
+			"\n",
+			"createContentBy",
+			"line",
+			"1",
+			"line",
+			"neighborSet",
+			"cNode",
+			"levelRange",
+			"reciprocal_cornerCount",
+			"setEnabledNodeCount",
+			"setLevelLimit",
+			"enabled",
+			"_unrelatedNodeCount",
+			"setLevelLimit",
+			"255,255,255",
+			".vbrowser-drag-goal",
+			"@symbolSize",
+			"@triangleSize",
+			"@triangleSize = @parent.itemSize / 3 * 2",
+			"killTweens",
+			"3.0",
+			"2.0",
+			"bo1",
+			"bo0",
+			"3.0",
+			"setLevelLimit",
+			"p_options",
+			"d_args",
+			"d_arguments",
+			"p_arguments",
+			"duration",
+			"reorder",
+			"centerNode",
+			"centerNode ",
+			"centerNode()",
+			"centerNode(",
+			".layout.position",
+			"data().normal",
+			"filter.add",
+			"getAc",
+			"getActiveNodeCount",
+			"ratio",
+			"str",
+			"bbb",
+			"aaa",
+			"0.8",
+			"0.6",
+			"0 , ",
+			"toTop",
+			"maxInDisplayLevel",
+			"minInDisplayLevel",
+			"maxInDisplayLevel",
+			"numberVisibilityThreshold",
+			"maxVisibleLevel",
+			"nextLevelBonus",
+			"bonus",
+			"linear()",
+			"nodeBound",
+			"@center[1] + @nodeBound.h",
+			"@center[0] + @nodeBound.w",
+			" + ",
+			"_nodeDataCenter",
+			"unitDistance",
+			"nodeBound",
+			"node.data()",
+			"gesture",
+			"timer",
+			"@svg",
+			"' ,",
+			"d3.event.preventDefault()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"level",
+			"@menu",
+			"@parent.size",
+			"TweenLite",
+			"d.boundingBox",
+			"level",
+			"vbrowser-filter",
+			"@selectedNeighborhood",
+			"handle",
+			"handleHeight",
+			"handleWidth",
+			"USP_FEATURE",
+			"USP_CONTENT",
+			"@UIID.USP_FEATURE point.id",
+			"@UIID.USP_CHAPTER point.id",
+			"os.cpus().length",
+			"interaction-enabled=\"true",
+			"SkipBtn",
+			"Config",
+			"newWidth",
+			"UIID.SWIPE_LOAD",
+			"UIID.START_PAGE",
+			"UIID.INTRO_SKIP",
+			"UIID.BUFFERING_1",
+			"UIID.BUFFERING_0",
+			"'./ImageRenderer'",
+			"@navbar",
+			"NavigationBar",
+			"console.log",
+			"// console.log",
+			"@main",
+			"@sub",
+			"DeviceDetectionHelper",
+			"assets/movie/sequences/",
+			"ModeDescription",
+			"",
+			"_Desc",
+			"MODE",
+			"@",
+			"@startX",
+			"Statics.",
+			"tweenSpeed",
+			"Speed",
+			"targetSpeed",
+			"src/target/low_quality",
+			"src/target/medium_quality",
+			"src/target/high_quality",
+			"src/target/source",
+			".rendable = @sequence",
+			"@speed",
+			"paths",
+			"@touchDevice",
+			"STATICS.HIGH_QUALITY",
+			"STATICS.LOW_QUALITY",
+			" ",
+			"utils.",
+			"PostRender",
+			".orbit",
+			"key_cnt_end",
+			"mountains.chars.length",
+			"",
+			"<link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>",
+			"<link href='http://fonts.googleapis.com/css?family=Raleway|Source+Serif+Pro' rel='stylesheet' type='text/css'>",
+			"bound",
+			"Draw/Render",
+			"DrawRender"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gulp/build.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1284,
+								1284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "webpack.config.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 23.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/SASS Build/SASS - Compressed.sublime-build",
+	"project": "tenplate.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"webpack.config.coffee",
+				"webpack.config.coffee"
+			],
+			[
+				"build.coffee",
+				"gulp/build.coffee"
+			],
+			[
+				"",
+				"mutate.sublime-project"
+			],
+			[
+				"datamosheditor.cs",
+				"Datamosh/Editor/DatamoshEditor.cs"
+			],
+			[
+				"datamosh.cs",
+				"Datamosh/Datamosh.cs"
+			],
+			[
+				"shader",
+				"Shader/ReactiveDiffusionDisplacement.shader"
+			],
+			[
+				"rddcs",
+				"ReactiveDiffusionDisplacement.cs"
+			],
+			[
+				"rddedi",
+				"Editor/ReactiveDiffusionDisplacementEditor.cs"
+			],
+			[
+				"datamosh.shader",
+				"Assets/Kino/Datamosh/Shader/Datamosh.shader"
+			],
+			[
+				"rds.cs",
+				"RDShade.cs"
+			],
+			[
+				"rdshade.shader",
+				"Shader/RDShade.shader"
+			],
+			[
+				"gs.fs",
+				"shader/gs.fs.glsl"
+			],
+			[
+				"environmentmap.",
+				"js/EnvironmentMap.coffee"
+			],
+			[
+				"simulator.coffee",
+				"js/ReactiveDiffusionSimulator.coffee"
+			],
+			[
+				"_modules/content_all.html",
+				"_modules/content_all.html"
+			],
+			[
+				"gulpfile.js",
+				"gulpfile.js"
+			],
+			[
+				"ar_qr.js",
+				"_js/ar_spqr.js"
+			],
+			[
+				"index.html",
+				"index.html"
+			],
+			[
+				"package.json",
+				"package.json"
+			],
+			[
+				"contentservice.js",
+				"www/js/content/services/contentService.js"
+			],
+			[
+				"data",
+				"src/js/helpers/DataProcessor.coffee"
+			],
+			[
+				"graph",
+				"src/js/math/Graph.coffee"
+			],
+			[
+				"layout",
+				"src/js/PetrLayout.coffee"
+			],
+			[
+				"graphc",
+				"src/js/GraphController.coffee"
+			],
+			[
+				"node.coffee",
+				"src/js/math/Node.coffee"
+			],
+			[
+				"dataprocessor",
+				"src/js/helpers/DataProcessor.coffee"
+			],
+			[
+				"node",
+				"src/js/math/Node.coffee"
+			],
+			[
+				"graph.coffee",
+				"src/js/math/Graph.coffee"
+			],
+			[
+				"graphcon",
+				"src/js/GraphController.coffee"
+			],
+			[
+				"integra",
+				"webpack.config.integrate.coffee"
+			],
+			[
+				"vbrowserinit",
+				"src/js/VBrowserInit.coffee"
+			],
+			[
+				"angular",
+				"src/js/angular_wrapper.coffee"
+			],
+			[
+				"styl",
+				"src/stylus/visualBrowser.styl"
+			],
+			[
+				"marking",
+				"src/js/MarkingMenu.coffee"
+			],
+			[
+				"dragc",
+				"src/js/DragController_Prototype2.coffee"
+			],
+			[
+				"set.coffee",
+				"src/js/DataStructure/Set.coffee"
+			],
+			[
+				"petrla",
+				"src/js/PetrLayout.coffee"
+			],
+			[
+				"grpahcon",
+				"src/js/GraphController.coffee"
+			],
+			[
+				".styl",
+				"src/stylus/visualBrowser.styl"
+			],
+			[
+				"markingmenuitem.coffee",
+				"src/js/MarkingMenuItem.coffee"
+			],
+			[
+				"menu",
+				"src/js/MarkingMenu.coffee"
+			],
+			[
+				"graphcont",
+				"src/js/GraphController.coffee"
+			],
+			[
+				"filter",
+				"src/js/FilterController.coffee"
+			],
+			[
+				"filtercontroller",
+				"src/js/FilterController.coffee"
+			],
+			[
+				"petrlayout.coffee",
+				"src/js/PetrLayout.coffee"
+			],
+			[
+				"graphcontroller",
+				"src/js/GraphController.coffee"
+			],
+			[
+				"dragcontroller.coffee",
+				"src/js/DragController.coffee"
+			],
+			[
+				"layout.",
+				"src/js/PetrLayout.coffee"
+			],
+			[
+				"main.coffee",
+				"src/js/main.coffee"
+			],
+			[
+				"vbrowserinit.coffee",
+				"src/js/VBrowserInit.coffee"
+			],
+			[
+				"markingmenu",
+				"src/js/MarkingMenu.coffee"
+			],
+			[
+				"petrl",
+				"src/js/PetrLayout.coffee"
+			],
+			[
+				"body.styl",
+				"src/stylus/body.styl"
+			],
+			[
+				"deboucne.js",
+				"src/js/vendor/debounce.js"
+			],
+			[
+				"debounce.js",
+				"src/js/vendor/debounce.js"
+			],
+			[
+				"petrlay",
+				"src/js/PetrLayout.coffee"
+			],
+			[
+				"dragcon",
+				"src/js/DragController.coffee"
+			],
+			[
+				"main.co",
+				"src/js/main.coffee"
+			],
+			[
+				"dragcontroller.coff",
+				"src/js/DragController.coffee"
+			],
+			[
+				"vbrowser.styl",
+				"src/stylus/visualBrowser.styl"
+			],
+			[
+				"body.",
+				"src/stylus/body.styl"
+			],
+			[
+				"index.jade",
+				"src/jade/index.jade"
+			],
+			[
+				"filter.styl",
+				"src/stylus/components/filter.styl"
+			],
+			[
+				"styl.",
+				"src/stylus/visualBrowser.styl"
+			],
+			[
+				"gulpwatch.coffee",
+				"gulp/watch.coffee"
+			],
+			[
+				"markingmenu.coffee",
+				"src/js/MarkingMenu.coffee"
+			],
+			[
+				"watch.coffee",
+				"gulp/watch.coffee"
+			],
+			[
+				"build.coffe",
+				"gulp/build.coffee"
+			],
+			[
+				"webpackconfig.integrate",
+				"webpack.config.integrate.coffee"
+			],
+			[
+				"dragproto2",
+				"src/js/DragController_Prototype2.coffee"
+			],
+			[
+				"petr",
+				"src/js/PetrLayout.coffee"
+			],
+			[
+				"graphcontroller.coffee",
+				"src/js/GraphController.coffee"
+			],
+			[
+				"dragcontroller",
+				"src/js/DragController.coffee"
+			],
+			[
+				"angul",
+				"src/js/angular_wrapper.coffee"
+			],
+			[
+				"vinit",
+				"src/js/VBrowserInit.coffee"
+			],
+			[
+				"graf",
+				"src/js/GraphController.coffee"
+			],
+			[
+				"angular_wrapper.coffee",
+				"src/js/angular_wrapper.coffee"
+			],
+			[
+				"integrate.coffee",
+				"webpack.config.integrate.coffee"
+			],
+			[
+				"integrate",
+				"webpack.config.integrate.coffee"
+			],
+			[
+				"filtercontroller.coffee",
+				"src/js/FilterController.coffee"
+			],
+			[
+				"vbrow",
+				"src/js/VBrowserInit.coffee"
+			],
+			[
+				"filter.coffee",
+				"src/js/Filter.coffee"
+			],
+			[
+				"vbini",
+				"src/js/VBrowserInit.coffee"
+			],
+			[
+				"v",
+				"src/js/VBrowserInit.coffee"
+			],
+			[
+				"jade",
+				"src/jade/index.jade"
+			],
+			[
+				"main.",
+				"src/js/main.coffee"
+			],
+			[
+				"gulp",
+				"gulp/build.coffee"
+			],
+			[
+				"vbrowser",
+				"src/stylus/visualBrowser.styl"
+			],
+			[
+				"drag",
+				"src/js/DragController.coffee"
+			],
+			[
+				"link.coffee",
+				"src/js/math/Link.coffee"
+			],
+			[
+				"gar",
+				"src/js/GraphController.coffee"
+			],
+			[
+				"node.",
+				"src/js/math/Node.coffee"
+			],
+			[
+				"petrlaout",
+				"src/js/PetrLayout.coffee"
+			],
+			[
+				"layout.coffee",
+				"src/js/Layout.coffee"
+			],
+			[
+				"lay",
+				"src/js/Layout.coffee"
+			],
+			[
+				"controller",
+				"src/js/FilterController.coffee"
+			],
+			[
+				"control",
+				"src/js/GraphController.coffee"
+			],
+			[
+				"graphconro",
+				"src/js/GraphController.coffee"
+			],
+			[
+				"contr",
+				"src/js/GraphController.coffee"
+			],
+			[
+				"app",
+				"src/js/angular_wrapper.coffee"
+			],
+			[
+				"vb",
+				"src/stylus/visualBrowser.styl"
+			],
+			[
+				"init.coffee",
+				"src/js/VBrowserInit.coffee"
+			],
+			[
+				"main",
+				"src/js/main.coffee"
+			],
+			[
+				"main.coff",
+				"src/js/main.coffee"
+			],
+			[
+				"main.of",
+				"src/js/main.coffee"
+			],
+			[
+				"vbro.styl",
+				"src/stylus/visualBrowser.styl"
+			],
+			[
+				"petrlayout",
+				"src/js/PetrLayout.coffee"
+			],
+			[
+				"d3.js",
+				"src/js/vendor/d3.js"
+			],
+			[
+				"init",
+				"src/js/VBrowserInit.coffee"
+			],
+			[
+				"controller.coffee",
+				"src/js/GraphController.coffee"
+			],
+			[
+				"set.coffe",
+				"src/js/DataStructure/Set.coffee"
+			],
+			[
+				"contro",
+				"src/js/GraphController.coffee"
+			],
+			[
+				"dataprocessor.coffee",
+				"src/js/helpers/DataProcessor.coffee"
+			],
+			[
+				"init.",
+				"src/js/VBrowserInit.coffee"
+			],
+			[
+				"graphcot",
+				"src/js/GraphController.coffee"
+			],
+			[
+				"force",
+				"src/js/ForceLayout.coffee"
+			],
+			[
+				"init.co",
+				"src/js/VBrowserInit.coffee"
+			],
+			[
+				"layoutc",
+				"src/js/Layout.coffee"
+			],
+			[
+				"forcelay",
+				"src/js/ForceLayout.coffee"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"set",
+				"src/js/DataStructure/Set.coffee"
+			],
+			[
+				"forcelayout",
+				"src/js/ForceLayout.coffee"
+			],
+			[
+				"controll",
+				"src/js/GraphController.coffee"
+			],
+			[
+				"forcelayout.coffee",
+				"src/js/ForceLayout.coffee"
+			],
+			[
+				"forcel",
+				"src/js/ForceLayout.coffee"
+			],
+			[
+				"vb.styl",
+				"src/stylus/visualBrowser.styl"
+			],
+			[
+				"vbro",
+				"src/stylus/visualBrowser.styl"
+			],
+			[
+				"angular_wrapper",
+				"src/js/angular_wrapper.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
