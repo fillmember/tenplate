@@ -9,7 +9,7 @@ stylus = require 'gulp-stylus'
 nib = require 'nib'
 
 webpack     = require "webpack"
-browserSync = require("browser-sync").get("A")
+browserSync = require("browser-sync").get( config.browserSync_identifier )
 
 
 gulp.task 'build', (cb) ->
@@ -33,29 +33,29 @@ gulp.task 'build-files', (cb) ->
     )
 
 gulp.task 'build-stylus', ->
-    gulp.src ['src/stylus/*.styl']
+    gulp.src config.stylus_selector
         .pipe plumber()
         .pipe stylus
             use: nib()
-        .pipe gulp.dest('dist/css')
+        .pipe gulp.dest( config.stylus_destination_path )
         .pipe browserSync.stream()
 
 gulp.task 'build-css', ->
-    gulp.src ['src/css/*.css']
-        .pipe gulp.dest('dist/css')
+    gulp.src config.css_selector
+        .pipe gulp.dest( config.css_destination_path )
         .pipe browserSync.stream()
 
 gulp.task 'build-image', (cb) ->
     gulp
-        .src ['src/image/**/*']
-        .pipe gulp.dest('dist/image')
+        .src config.image_selector
+        .pipe gulp.dest( config.image_destination_path )
         .pipe browserSync.stream()
 
 gulp.task 'build-jade', ->
-    gulp.src ['./src/jade/*.jade']
+    gulp.src config.jade_selector
         .pipe plumber()
         .pipe jade pretty: true
-        .pipe gulp.dest('./dist/')
+        .pipe gulp.dest( config.jade_destination_path )
         .pipe browserSync.stream()
 
 gulp.task 'webpack:build', (cb) ->

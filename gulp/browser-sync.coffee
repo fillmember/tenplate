@@ -1,11 +1,11 @@
 config = require './config.coffee'
 
 gulp = require "gulp"
-browserSync = require("browser-sync").create("A")
+browserSync = require("browser-sync").create( config.browserSync_identifier )
 
 gulp.task 'browserSync', (cb) ->
     browserSync.init {
-        server: "./dist",
+        server: config.destination_path,
         port: 3000
     }
     cb()
