@@ -21,18 +21,20 @@ gulp.task 'watch', ->
     gulp.watch './src/assets/**/*'  , ['build-assets']
 
 gulp.task 'webpack:watch', (cb) ->
+
     webpackConfig = require("./../webpack.config.coffee")
+
     # Transform config for Watch task
     webpackConfig.debug = true
     webpackConfig.devtool = "source-map"
     webpackConfig.watch = true
-    webpackConfig.devServer = {
-      aggregateTimeout: 300,
-      quiet: false,
-      noInfo: false,
-      lazy: true,
-      port: 3000
-    }
+    webpackConfig.devServer =
+        aggregateTimeout : 300
+        quiet            : false
+        noInfo           : false
+        lazy             : true
+        port             : 3000
+
     # webpack
     webpack webpackConfig, (err, stats) ->
         if err then throw new gutil.PluginError "webpack:watch" , err
