@@ -7,7 +7,7 @@ jade   = require 'gulp-jade'
 stylus = require "gulp-stylus"
 
 webpack     = require "webpack"
-browserSync = require("browser-sync").get( config.config.browserSync_identifier )
+browserSync = require("browser-sync").get( config.browserSync_identifier )
 
 
 gulp.task 'watch', ->
