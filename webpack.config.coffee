@@ -5,7 +5,8 @@ argv = require('yargs').argv
 config = 
 	
 	entry:
-		Main: './src/js/main.js'
+		vendor: './src/js/vendor.coffee'
+		main: './src/js/main.coffee'
 	
 	output:
 		path: path.join __dirname , 'dist' , 'js'
