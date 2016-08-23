@@ -1,1 +1,0 @@
-__DEV__ && console.log("dev message!")
