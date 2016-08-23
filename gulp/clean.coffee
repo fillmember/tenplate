@@ -1,14 +1,13 @@
 gulp = require 'gulp'
 del  = require 'del'
-yargs = require 'yargs'
 
 gulp.task 'clean', -> 
-    argv = yargs.argv
-    all = argv.all
-    if all
-        del 'dist/'
-    else
-        del 'dist/js/*.js'
-        del 'dist/css/*.css'
-        del 'dist/*.html'
-        del 'dist/js/*.js.map'
+	# clean image output
+	del 'dist/images/*.*'
+	# clean css / stylus output
+    del 'dist/css/*.css'
+    # clean jade output
+    del 'dist/*.html'
+    # clean javascript output
+    del 'dist/js/*.js'
+    del 'dist/js/*.js.map'
