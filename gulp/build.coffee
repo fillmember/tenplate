@@ -11,11 +11,13 @@ browserSync = require("browser-sync").get("A")
 
 
 gulp.task 'build', (cb) ->
+
     run(
         'clean'
         'build-files'
         'webpack:build'
-        cb)
+        cb
+    )
 
 gulp.task 'build-files', (cb) ->
     run(
@@ -29,7 +31,7 @@ gulp.task 'build-files', (cb) ->
     )
 
 gulp.task 'build-stylus', ->
-    gulp.src ['src/stylus/**/*.styl', '!src/stylus/components/*']
+    gulp.src ['src/stylus/*.styl']
         .pipe plumber()
         .pipe stylus
             use: nib()
@@ -37,27 +39,30 @@ gulp.task 'build-stylus', ->
         .pipe browserSync.stream()
 
 gulp.task 'build-css', ->
-    gulp.src ['src/css/**/*.css', '!src/css/components/*']
+    gulp.src ['src/css/*.css']
         .pipe gulp.dest('dist/css')
         .pipe browserSync.stream()
 
-gulp.task 'build-assets', (cb) ->
+gulp.task 'build-images', (cb) ->
     gulp
-        .src ['src/assets/**/*']
-        .pipe gulp.dest('dist/assets')
+        .src ['src/images/**/*']
+        .pipe gulp.dest('dist/images')
         .pipe browserSync.stream()
 
 gulp.task 'build-jade', ->
-    gulp.src ['./src/jade/**/*.jade']
+    gulp.src ['./src/jade/*.jade']
         .pipe plumber()
         .pipe jade pretty: true
         .pipe gulp.dest('./dist/')
         .pipe browserSync.stream()
 
 gulp.task 'webpack:build', (cb) ->
+
     webpackConfig = require("./../webpack.config.coffee")
+
     # Transform config for Build task
     webpackConfig.plugins.push new webpack.optimize.UglifyJsPlugin sourceMap:false, compress: {warnings: false}
+
     # webpack
     webpack webpackConfig, (err, stats) ->
         if err then throw new gutil.PluginError "webpack:build" , err
