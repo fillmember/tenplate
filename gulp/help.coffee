@@ -11,14 +11,6 @@ gulp.task 'help' , (cb) ->
 		title ' TENPLATE '
 		header 'usage: '
 		'gulp [watch|build|clean] [options]'
-		''
-		header 'while gulp clean: '
-		'--all    clean all'
-		''
-		header 'while gulp build/watch: '
-		'--dev              set __DEV__ to true'
-		'--nodev            set __DEV__ to false'
-		''
 	].join '\n'
 	console.log text
 	return cb()
