@@ -12,7 +12,7 @@ config = {
 
 config.jade_source_path   = config.source_path + '/jade'
 config.css_source_path    = config.source_path + '/css'
-config.stylus_source_path = config.source_path + '/css'
+config.stylus_source_path = config.source_path + '/stylus'
 config.image_source_path  = config.source_path + '/image'
 
 # Selectors
