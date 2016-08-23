@@ -15,10 +15,11 @@ gulp.task 'watch', ->
         'browserSync'
         'webpack:watch'
     )
-    gulp.watch './src/stylus/**/*.styl', ['build-stylus']
-    gulp.watch './src/css/**/*.css'    , ['build-css']
-    gulp.watch './src/jade/**/*.jade'  , ['build-jade']
-    gulp.watch './src/assets/**/*'  , ['build-assets']
+
+    gulp.watch './src/stylus/**/*.styl', [ 'build-stylus' ]
+    gulp.watch './src/css/**/*.css'    , [ 'build-css' ]
+    gulp.watch './src/jade/**/*.jade'  , [ 'build-jade' ]
+    gulp.watch './src/image/**/*'      , [ 'build-image' ]
 
 gulp.task 'webpack:watch', (cb) ->
 
