@@ -43,7 +43,7 @@ gulp.task 'build-css', ->
         .pipe gulp.dest('dist/css')
         .pipe browserSync.stream()
 
-gulp.task 'build-images', (cb) ->
+gulp.task 'build-image', (cb) ->
     gulp
         .src ['src/images/**/*']
         .pipe gulp.dest('dist/images')
