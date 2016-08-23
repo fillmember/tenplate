@@ -1,3 +1,5 @@
+config = require './config.coffee'
+
 gulp = require 'gulp'
 del  = require 'del'
 

@@ -1,6 +1,7 @@
+config = require './config.coffee'
+
 gulp = require "gulp"
 browserSync = require("browser-sync").create("A")
-
 
 gulp.task 'browserSync', (cb) ->
     browserSync.init {

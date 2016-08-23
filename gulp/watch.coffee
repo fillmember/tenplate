@@ -1,3 +1,5 @@
+config = require './config.coffee'
+
 gulp   = require 'gulp'
 gutil  = require 'gulp-util'
 run    = require 'run-sequence'
