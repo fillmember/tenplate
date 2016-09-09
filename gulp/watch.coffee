@@ -18,10 +18,10 @@ gulp.task 'watch', ->
         'webpack:watch'
     )
 
-    gulp.watch './src/stylus/**/*.styl', [ 'build-stylus' ]
-    gulp.watch './src/css/**/*.css'    , [ 'build-css' ]
-    gulp.watch './src/jade/**/*.jade'  , [ 'build-jade' ]
-    gulp.watch './src/image/**/*'      , [ 'build-image' ]
+    gulp.watch config.stylus_selector , [ 'build-stylus' ]
+    gulp.watch config.css_selector    , [ 'build-css'    ]
+    gulp.watch config.jade_selector   , [ 'build-jade'   ]
+    gulp.watch config.image_selector  , [ 'build-image'  ]
 
 gulp.task 'webpack:watch', (cb) ->
 
