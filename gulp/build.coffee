@@ -42,12 +42,14 @@ gulp.task 'build-stylus', ->
 
 gulp.task 'build-css', ->
     gulp.src config.css_selector
+        .pipe plumber()
         .pipe gulp.dest( config.css_destination_path )
         .pipe browserSync.stream()
 
 gulp.task 'build-image', (cb) ->
     gulp
         .src config.image_selector
+        .pipe plumber()
         .pipe gulp.dest( config.image_destination_path )
         .pipe browserSync.stream()
 
