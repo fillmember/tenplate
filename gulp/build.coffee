@@ -1,14 +1,12 @@
 config = require './config.coffee'
 
 gulp   = require 'gulp'
-gutil  = require 'gulp-util'
 plumber = require 'gulp-plumber'
 run    = require 'run-sequence'
 jade   = require 'gulp-jade'
 stylus = require 'gulp-stylus'
 nib = require 'nib'
 
-webpack     = require "webpack"
 browserSync = require("browser-sync").get( config.browserSync_identifier )
 
 
@@ -59,17 +57,3 @@ gulp.task 'build-jade', ->
         .pipe jade pretty: true
         .pipe gulp.dest( config.jade_destination_path )
         .pipe browserSync.stream()
-
-gulp.task 'webpack:build', (cb) ->
-
-    webpackConfig = require("./../webpack.config.coffee")
-
-    # Transform config for Build task
-    webpackConfig.plugins.push new webpack.optimize.UglifyJsPlugin sourceMap:false, compress: {warnings: false}
-
-    # webpack
-    webpack webpackConfig, (err, stats) ->
-        if err then throw new gutil.PluginError "webpack:build" , err
-        gutil.beep()
-        gutil.log "[webpack:build]", stats.toString colors: true
-        cb()
